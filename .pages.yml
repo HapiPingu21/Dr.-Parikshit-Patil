@@ -1,0 +1,51 @@
+media:
+  input: assets/uploads
+  output: /assets/uploads
+
+content:
+  - name: site
+    label: Website content
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - { name: doctorName, label: Doctor's full name, type: string, required: true }
+      - { name: title, label: Professional title, type: string, required: true }
+      - { name: qualification, label: Qualifications, type: string }
+      - { name: location, label: Location, type: string }
+      - { name: primaryPhone, label: Primary phone (display), type: string }
+      - { name: secondaryPhone, label: Secondary phone, type: string }
+      - { name: whatsappNumber, label: WhatsApp number (digits only), type: string }
+      - { name: email, label: Email, type: string }
+      - { name: heroIntro, label: Homepage introduction, type: text }
+      - { name: aboutLead, label: About introduction, type: text }
+      - { name: aboutDetail, label: About details, type: text }
+      - name: memberships
+        label: Memberships
+        type: string
+        list: true
+      - name: services
+        label: Services
+        type: object
+        list: true
+        fields:
+          - { name: number, label: Number, type: string }
+          - { name: title, label: Service name, type: string }
+          - { name: description, label: Description, type: text }
+      - name: experience
+        label: Experience
+        type: object
+        list: true
+        fields:
+          - { name: period, label: Dates, type: string }
+          - { name: role, label: Role, type: string }
+          - { name: institution, label: Institution, type: string }
+      - { name: academicCopy, label: Academic summary, type: text }
+
+settings:
+  content:
+    merge: true
+  commit:
+    identity: user
+    templates:
+      update: "Update website content"

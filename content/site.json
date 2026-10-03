@@ -1,0 +1,29 @@
+{
+  "doctorName": "Dr. Parikshit Pratap Patil",
+  "title": "Orthopaedic Surgeon",
+  "qualification": "MBBS, MS Orthopaedics, Fellowship in Sports Medicine & Joint Replacement",
+  "location": "Solapur, Maharashtra",
+  "primaryPhone": "+91 88881 14440",
+  "secondaryPhone": "+91 70701 62444",
+  "whatsappNumber": "918888114440",
+  "email": "drparikshitpatil@gmail.com",
+  "heroIntro": "Evidence-led orthopaedic care with clear guidance at every step—from diagnosis to recovery.",
+  "aboutLead": "Dr. Parikshit Patil is an orthopaedic surgeon with focused training in sports medicine, arthroscopy, trauma care and joint replacement.",
+  "aboutDetail": "His clinical experience across hospitals in Mumbai, Ranchi, Jamshedpur and Pune is complemented by a strong interest in medical education and research. He believes patients make better decisions when their diagnosis and treatment choices are explained clearly.",
+  "memberships": ["AO Trauma", "Indian Arthroscopy Society", "Indian Academy of Orthopaedic Surgeons", "Sports Injury Research Society"],
+  "services": [
+    {"number":"01","title":"Fracture & Trauma Care","description":"Assessment and management of fractures and orthopaedic injuries, including emergency stabilization and surgical treatment where appropriate."},
+    {"number":"02","title":"Sports Injuries","description":"Evaluation and treatment planning for ligament, tendon, cartilage and activity-related injuries, with the goal of a safe return to movement."},
+    {"number":"03","title":"Knee Arthroscopy","description":"Minimally invasive keyhole procedures for selected knee conditions, including ligament and meniscus injuries."},
+    {"number":"04","title":"Shoulder Arthroscopy","description":"Specialist assessment and keyhole treatment options for selected shoulder pain, instability and tendon injuries."},
+    {"number":"05","title":"Joint Replacement","description":"Evaluation and surgical care for advanced joint disease when pain and reduced mobility continue despite appropriate non-surgical treatment."},
+    {"number":"06","title":"Joint Preservation","description":"Treatment strategies designed to protect the natural joint, improve function and delay more extensive surgery when possible."}
+  ],
+  "experience": [
+    {"period":"Current / recent","role":"Clinical Assistant","institution":"Manipal Hospitals, Baner, Pune"},
+    {"period":"Nov 2024 – Oct 2025","role":"Senior Resident","institution":"Tata Main Hospital & Manipal Tata Medical College, Jamshedpur"},
+    {"period":"May 2024 – Oct 2024","role":"Senior Resident","institution":"Shree Jagannath Hospital & Research Centre, Ranchi"},
+    {"period":"Nov 2023 – Apr 2024","role":"Clinical Assistant","institution":"Sir H. N. Reliance Foundation Hospital, Mumbai"}
+  ],
+  "academicCopy": "Dr. Patil has contributed to undergraduate and postgraduate teaching, clinical skills assessment and competency-based medical education, alongside presentations and research in trauma, sports injuries and spine care."
+}
