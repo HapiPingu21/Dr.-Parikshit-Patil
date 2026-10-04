@@ -1,5 +1,7 @@
 {
   "doctorName": "Dr. Parikshit Pratap Patil",
+  "portraitImage": "assets/dr-parikshit-patil.png",
+  "portraitAlt": "Dr. Parikshit Patil in a white medical coat",
   "title": "Orthopaedic Surgeon",
   "roleSummary": "Orthopaedic surgeon specialising in trauma, joint preservation, arthroscopy, sports medicine and sports injuries.",
   "qualification": "MBBS, MS Orthopaedics, Fellowship in Sports Medicine & Joint Replacement",

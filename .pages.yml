@@ -10,6 +10,15 @@ content:
     format: json
     fields:
       - { name: doctorName, label: Doctor's full name, type: string, required: true }
+      - name: portraitImage
+        label: Doctor portrait
+        type: image
+        required: true
+        options:
+          categories: [image]
+          extensions: [jpg, jpeg, png, webp]
+          rename: safe
+      - { name: portraitAlt, label: Portrait description, type: string, description: "Example: Dr. Parikshit Patil in a white medical coat" }
       - { name: title, label: Professional title, type: string, required: true }
       - { name: roleSummary, label: Current professional role, type: text }
       - { name: qualification, label: Qualifications, type: string }

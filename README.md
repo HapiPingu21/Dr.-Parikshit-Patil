@@ -28,6 +28,8 @@ The website will appear at `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`.
 3. Select **Website content**.
 4. Edit a field and save. Pages CMS commits the change to GitHub; GitHub Pages republishes automatically.
 
+To replace the main photograph, open **Doctor portrait**, select or upload a JPG, PNG, or WebP image, and save. A vertical portrait with the doctor's face centred works best.
+
 The editable fields live in `content/site.json`. The CMS form is defined in `.pages.yml`.
 
 ## Before launch
