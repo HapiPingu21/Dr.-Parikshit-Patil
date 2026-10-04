@@ -11,11 +11,15 @@ content:
     fields:
       - { name: doctorName, label: Doctor's full name, type: string, required: true }
       - { name: title, label: Professional title, type: string, required: true }
+      - { name: roleSummary, label: Current professional role, type: text }
       - { name: qualification, label: Qualifications, type: string }
       - { name: location, label: Location, type: string }
       - { name: primaryPhone, label: Primary phone (display), type: string }
       - { name: secondaryPhone, label: Secondary phone, type: string }
       - { name: whatsappNumber, label: WhatsApp number (digits only), type: string }
+      - { name: consultationHours, label: Consultation days and hours, type: string }
+      - { name: appointmentMethods, label: Appointment methods, type: string }
+      - { name: registrationNumber, label: Medical registration number, type: string }
       - { name: email, label: Email, type: string }
       - { name: heroIntro, label: Homepage introduction, type: text }
       - { name: aboutLead, label: About introduction, type: text }
