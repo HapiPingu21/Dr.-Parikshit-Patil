@@ -1,10 +1,10 @@
 {
-  "doctorName": "Dr. Parikshit Pratap Patil",
+  "doctorName": "Dr Parikshit Pratap Patil",
   "portraitImage": "assets/dr-parikshit-patil.png",
-  "portraitAlt": "Dr. Parikshit Patil in a white medical coat",
-  "title": "Orthopaedic Surgeon",
+  "portraitAlt": "Dr Parikshit Patil in a white medical coat",
+  "title": "Orthopaedic Surgeon ",
   "roleSummary": "Orthopaedic surgeon specialising in trauma, joint preservation, arthroscopy, sports medicine and sports injuries.",
-  "qualification": "MBBS, MS Orthopaedics, Fellowship in Sports Medicine & Joint Replacement",
+  "qualification": "MBBS, MS Orthopaedics, Fellowship in Sports Medicine & Joint Replacement , Fellowship in Arthroscopy",
   "location": "Solapur, Maharashtra",
   "primaryPhone": "+91 70701 62444",
   "secondaryPhone": "+91 88881 14440",
@@ -14,20 +14,62 @@
   "registrationNumber": "2018052285",
   "email": "drparikshitpatil@gmail.com",
   "heroIntro": "Evidence-led orthopaedic care with clear guidance at every step—from diagnosis to recovery.",
-  "aboutLead": "Dr. Parikshit Patil is an orthopaedic surgeon specialising in trauma care, joint preservation, arthroscopy, sports medicine and sports injuries.",
+  "aboutLead": "Dr Parikshit Patil is an orthopaedic surgeon specialising in trauma care, joint preservation, arthroscopy, sports medicine and sports injuries.",
   "aboutDetail": "His clinical experience across hospitals in Mumbai, Ranchi, Jamshedpur and Pune is complemented by a strong interest in medical education and research. He believes patients make better decisions when their diagnosis and treatment choices are explained clearly.",
-  "memberships": ["AO Trauma", "Indian Arthroscopy Society", "Indian Academy of Orthopaedic Surgeons", "Sports Injury Research Society"],
+  "memberships": [
+    "AO Trauma",
+    "Indian Arthroscopy Society",
+    "Indian Academy of Orthopaedic Surgeons",
+    "Sports Injury Research Society"
+  ],
   "services": [
-    {"number":"01","title":"Fracture & Trauma Care","description":"Assessment and management of fractures and orthopaedic injuries, including emergency stabilisation and surgical treatment where appropriate."},
-    {"number":"02","title":"Arthroscopy & Keyhole Surgery","description":"Minimally invasive keyhole procedures for selected joint conditions, including ligament, meniscus and other sports-related injuries."},
-    {"number":"03","title":"Sports Injury Care","description":"Evaluation and treatment planning for ligament, tendon, cartilage and activity-related injuries, with the goal of a safe return to movement."},
-    {"number":"04","title":"Joint Preservation","description":"Treatment strategies designed to protect the natural joint, improve function and delay more extensive surgery when clinically appropriate."}
+    {
+      "number": "01",
+      "title": "Fracture & Trauma Care",
+      "description": "Assessment and management of fractures and orthopaedic injuries, including emergency stabilisation and surgical treatment where appropriate."
+    },
+    {
+      "number": "02",
+      "title": "Arthroscopy & Keyhole Surgery",
+      "description": "Minimally invasive keyhole procedures for selected joint conditions, including ligament, meniscus and other sports-related injuries."
+    },
+    {
+      "number": "03",
+      "title": "Sports Injury Care",
+      "description": "Evaluation and treatment planning for ligament, tendon, cartilage and activity-related injuries, with the goal of a safe return to movement."
+    },
+    {
+      "number": "04",
+      "title": "Joint Preservation",
+      "description": "Treatment strategies designed to protect the natural joint, improve function and delay more extensive surgery when clinically appropriate."
+    }
   ],
   "experience": [
-    {"period":"Current / recent","role":"Clinical Assistant","institution":"Manipal Hospitals, Baner, Pune"},
-    {"period":"Nov 2024 – Oct 2025","role":"Senior Resident","institution":"Tata Main Hospital & Manipal Tata Medical College, Jamshedpur"},
-    {"period":"May 2024 – Oct 2024","role":"Senior Resident","institution":"Shree Jagannath Hospital & Research Centre, Ranchi"},
-    {"period":"Nov 2023 – Apr 2024","role":"Clinical Assistant","institution":"Sir H. N. Reliance Foundation Hospital, Mumbai"}
+    {
+      "period": "Current / recent",
+      "role": "Clinical Assistant",
+      "institution": "Manipal Hospitals, Baner, Pune"
+    },
+    {
+      "period": "Nov 2024 – Oct 2025",
+      "role": "Senior Resident",
+      "institution": "Tata Main Hospital & Manipal Tata Medical College, Jamshedpur"
+    },
+    {
+      "period": "May 2024 – Oct 2024",
+      "role": "Junior Consultant",
+      "institution": "Shree Jagannath Hospital & Research Centre, Ranchi"
+    },
+    {
+      "period": "Nov 2023 – Apr 2024",
+      "role": "Clinical Assistant",
+      "institution": "Sir H. N. Reliance Foundation Hospital, Mumbai"
+    },
+    {
+      "period": "2026",
+      "role": "Assistant professor",
+      "institution": "Mysuru Medical College, Karnataka"
+    }
   ],
-  "academicCopy": "Dr. Patil has contributed to undergraduate and postgraduate teaching, clinical skills assessment and competency-based medical education, alongside presentations and research in trauma, sports injuries and spine care."
+  "academicCopy": "Dr Patil has contributed to undergraduate and postgraduate teaching, clinical skills assessment and competency-based medical education, alongside presentations and research in trauma, sports injuries and spine care."
 }
